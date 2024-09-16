@@ -1,0 +1,1 @@
+import{j as s}from"./index-Oq22enVI.js";const e="/shopit_React/assets/banner-Bg30U_Qk.png";function a(){return s.jsx("div",{className:" flex justify-center bg-teal-200",children:s.jsx("img",{src:e,alt:"",className:"w-full"})})}export{a as default};
